@@ -112,3 +112,5 @@ print("\nTotal =", total)
 ***Output :***
 
 ![.](ss/outputp1.png)
+
+## <p align="center"> **Thanks You**
